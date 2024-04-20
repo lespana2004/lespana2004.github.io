@@ -1,0 +1,10 @@
+h1 {
+    color: red;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+h2 {
+    color:blue;
+    font-size: medium;
+}
